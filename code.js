@@ -1,0 +1,2 @@
+/* A function to take an operation and two numbers and return the application
+ of the operation to each of the two numbers */
